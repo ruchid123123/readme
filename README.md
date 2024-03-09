@@ -7,8 +7,8 @@
 * OpenWrt、arch linux等常用Linux内核编译、插件开发
 * 基于tor流量进行混淆翻墙上网、暗网后台渗透、注入漏洞挖掘、隐蔽木马开发
 * 0day漏洞挖掘、代码审计、密取木马开发、管理员权限渗透。
-* 熟悉archlinux的使用、配置以及blackarch等工具源，大力参与渗透工具开发
-
+* 熟悉archlinux的使用、配置以及blackarch等工具源，开发个人反渗透安全系统
+* 
 ## 匿名上网反侦察
 
 * 参与设计clash verge的反追踪和加密算法
