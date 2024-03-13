@@ -14,6 +14,8 @@
 * 参与设计clash verge的反追踪和加密算法
 * web无指纹匿名上网
 * 熟练掌握文献检索技术、参加newsblur、irreader、change等网页情报技术
+* 自编译OpenWrt实现全锥形fullcone网络配置。
+  
 
 ## 数据分析方面
 
