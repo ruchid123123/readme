@@ -4,7 +4,7 @@
 
 * 各类型数据库注入。
 * kali、nmap、maltego、burpsuite等渗透工具
-* OpenWrt、arch linux等常用Linux内核编译、插件开发
+* 使用archlinux编译IPQ4019的OpenWrt内核实现全局代理上网，使用全局洋葱路由实现双重网桥
 * 基于tor流量进行混淆翻墙上网、暗网后台渗透、注入漏洞挖掘、隐蔽木马开发
 * 0day漏洞挖掘、代码审计、密取木马开发、管理员权限渗透。
 * 熟悉archlinux的使用、配置以及blackarch等工具源，开发个人反渗透安全系统
